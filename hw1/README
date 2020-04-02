@@ -1,0 +1,23 @@
+4229 HW1 - Cathy Yang 107163708 
+
+arrow keys: move display
+
+escape: quit
+
+0: resets view (2D xy plane)
+
+-: resets s, b, r to 10, 2.6666, 28 respectively
+
+s: sigma decreases by 0.25
+
+q: sigma increases by 0.25
+
+b: beta decreases by 0.25
+
+g: beta increases by 0.25
+
+r: rho decreases by 0.25
+
+4: rho increases by 0.25
+
+Time for completion: I wasn't checking I'm sorry but I started at about 2 and it's 9:45 now, and I did some other stuff so... 5 hours? 4 hours?? At most??

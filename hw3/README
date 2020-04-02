@@ -1,0 +1,17 @@
+4229 HW3 - Cathy Yang 107163708
+
+l          Toggle lighting on/off
+p	   Pause
+[]         Lower/rise light
+()	   Move light left/right
+arrows     Change view angle
+PgDn/PgUp  Zoom in and out
+0          Reset view angle
+
+a/A        decrease/increase ambient light
+d/D        decrease/increase diffuse light
+s/S        decrease/increase specular light
+f/F        decrease/increase emitted light
+g/G        Decrease/increase shininess
+
+ESC        Exit
