@@ -1,0 +1,15 @@
+Cathy Yang - Final 
+
+l          Toggle lighting on/off
+p	   Pause
+[]         Lower/rise light
+()	   Move light left/right
+arrows     Change view angle
+PgDn/PgUp  Zoom in and out
+0          Reset view angle
+
+ESC        Exit
+
+I've spent somewhere about 24 hours so far? Had a lot of touble with some textures (and you can see the trees wont cooperate), and spent a decent amount of time on shadows that don't work.
+
+This lagged my VM pretty hard my eyes hurt.
